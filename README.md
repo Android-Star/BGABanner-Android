@@ -46,6 +46,7 @@
 ```groovy
 dependencies {
     implementation 'com.android.support:support-v4:latestVersion'
+    implementation 'com.android.support.constraint:constraint-layout:latestVersion'
     implementation 'cn.bingoogolapple:bga-banner:latestVersion@aar'
 }
 ```
